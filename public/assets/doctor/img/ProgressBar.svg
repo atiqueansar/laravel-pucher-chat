@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="6" viewBox="0 0 150 6">
+  <g id="Progress_Bar" data-name="Progress Bar" transform="translate(-343 -314)">
+    <g id="Group_253" data-name="Group 253">
+      <line id="Line_5" data-name="Line 5" x2="43" transform="translate(348 317)" fill="none" stroke="#f8e253" stroke-width="1"/>
+      <circle id="Ellipse_38" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(343 314)" fill="#f8e253"/>
+    </g>
+    <g id="Group_254" data-name="Group 254" transform="translate(48)" opacity="0.13">
+      <line id="Line_5-2" data-name="Line 5" x2="43" transform="translate(348 317)" fill="none" stroke="#e15aa0" stroke-width="1"/>
+      <circle id="Ellipse_38-2" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(343 314)" fill="#e15aa0"/>
+    </g>
+    <g id="Group_255" data-name="Group 255" transform="translate(96)" opacity="0.13">
+      <path id="Path_1716" data-name="Path 1716" d="M0,0H46" transform="translate(348 317)" fill="none" stroke="#52c4c8" stroke-width="1"/>
+      <circle id="Ellipse_38-3" data-name="Ellipse 38" cx="3" cy="3" r="3" transform="translate(343 314)" fill="#52c4c8"/>
+      <circle id="Ellipse_39" data-name="Ellipse 39" cx="3" cy="3" r="3" transform="translate(391 314)" fill="#52c4c8"/>
+    </g>
+  </g>
+</svg>
